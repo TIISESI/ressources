@@ -1,4 +1,4 @@
-pandoc=pandoc -f markdown+hard_line_breaks
+pandoc=pandoc --pdf-engine=xelatex --toc -N
 name=ressources
 DEPS=$(name).md
 
