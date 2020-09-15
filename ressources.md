@@ -42,3 +42,16 @@ Le Forum des développeurs
 [YouTube - Cookie connecté](https://youtu.be/26jazyc7VNk)
 
 > Comprendre les modèles OSI et TCP/IP
+
+[Techno Tim](https://www.youtube.com/channel/UCOk-gHyjcWZNj3Br4oxwh0A)
+
+> I make videos that help people do awesome things with technology.
+
+[Lawrence Systems / PC Pickup](https://www.youtube.com/user/TheTecknowledge)
+
+> Lawrence Systems YouTube channel offers a look at how we run our company, the products we use and solutions we provide for our clients.  We discuss and create tutorials for firewalls, storage solutions, MSP tools, security tools and open source topics.  We do a live show every Thursday where we engage with our audience and have some laughs about working in the IT industry.
+
+
+[Level1Techs](https://www.youtube.com/user/teksyndicate)
+
+> We are passionate about technology and how it shapes our world. We create videos to share our knowledge about tech, science and design.
